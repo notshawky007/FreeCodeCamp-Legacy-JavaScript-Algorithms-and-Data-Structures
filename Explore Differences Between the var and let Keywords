@@ -1,0 +1,5 @@
+var x = 10;
+if (true) {
+  var x = 20; // The value of 'x' is changed globally
+}
+console.log(x); // 20
