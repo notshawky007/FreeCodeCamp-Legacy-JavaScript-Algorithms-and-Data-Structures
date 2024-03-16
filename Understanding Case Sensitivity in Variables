@@ -1,0 +1,4 @@
+var myVariable = 10;
+var MyVariable = 5;
+console.log(myVariable); // 10
+console.log(MyVariable); // 5
