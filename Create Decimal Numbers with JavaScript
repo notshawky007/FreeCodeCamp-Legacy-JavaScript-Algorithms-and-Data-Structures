@@ -1,0 +1,2 @@
+var decimalNumber = 3.14;
+console.log(decimalNumber); // Output: 3.14
