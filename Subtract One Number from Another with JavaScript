@@ -1,0 +1,2 @@
+var difference = 10 - 5;
+console.log(difference); // Output: 5
