@@ -1,0 +1,2 @@
+var product = 5 * 10;
+console.log(product); // Output: 50
