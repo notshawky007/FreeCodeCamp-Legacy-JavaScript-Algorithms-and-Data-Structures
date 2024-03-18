@@ -36,6 +36,47 @@ Welcome to the JavaScript Algorithms and Data Structures repository! This reposi
 
 10. **Declare a Read-Only Variable with the const Keyword**
     - Learn how to declare read-only variables using the `const` keyword in JavaScript.
+11. **Add Two Numbers with JavaScript**
+   - Learn how to add two numbers using the `+` operator.
+
+12. **Subtract One Number from Another with JavaScript**
+   - Understand how to subtract one number from another using the `-` operator.
+
+13. **Multiply Two Numbers with JavaScript**
+   - Discover how to multiply two numbers using the `*` operator.
+
+14. **Divide One Number by Another with JavaScript**
+   - Explore how to divide one number by another using the `/` operator.
+
+15. **Increment a Number with JavaScript**
+   - Learn how to increment a number by one using the `++` operator.
+
+16. **Decrement a Number with JavaScript**
+   - Understand how to decrement a number by one using the `--` operator.
+
+17. **Create Decimal Numbers with JavaScript**
+   - Discover how to create decimal numbers in JavaScript.
+
+18. **Multiply Two Decimals with JavaScript**
+   - Learn how to multiply two decimal numbers in JavaScript.
+
+19. **Divide One Decimal by Another with JavaScript**
+   - Explore how to divide one decimal number by another in JavaScript.
+
+20. **Finding a Remainder in JavaScript**
+    - Understand how to find the remainder of a division operation using the `%` operator.
+
+21. **Compound Assignment With Augmented Addition**
+    - Learn how to perform compound assignment with augmented addition using `+=`.
+
+22. **Compound Assignment With Augmented Subtraction**
+    - Understand how to perform compound assignment with augmented subtraction using `-=`.
+
+23. **Compound Assignment With Augmented Multiplication**
+    - Explore how to perform compound assignment with augmented multiplication using `*=`.
+
+24. **Compound Assignment With Augmented Division**
+    - Discover how to perform compound assignment with augmented division using `/=`.
 
 Feel free to explore each lesson in detail and practice the provided examples to enhance your understanding of JavaScript fundamentals!
 
