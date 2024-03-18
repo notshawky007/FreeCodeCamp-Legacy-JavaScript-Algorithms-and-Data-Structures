@@ -1,0 +1,2 @@
+var quotient = 50 / 10;
+console.log(quotient); // Output: 5
